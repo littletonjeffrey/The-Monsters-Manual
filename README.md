@@ -15,9 +15,9 @@ This is a blog site designed to have a Dungeons and Dragons theme, as created by
 ## Installation
 Node, NPM, Express
 ## Usage
-run "index.js" in an integrated terminal from the folder.  The program will prompt you for answers and when completed with questions, create a new readMe file for you to use.
+The app will allow a user to create blog bosts as well as comment on blog posts made by themselves and others
 ## Demo
-See it in action on [Google Drive](https://drive.google.com/file/d/1aItZdXmqTATFhhMwIiihY34pVCn09u_z/view?usp=drivesdk)!
+See it in action on [Heroku](https://monsters-manual.herokuapp.com/)!
 ## Contributing
 <details> 
 <summary>Contributor Covenant</summary>
